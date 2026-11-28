@@ -13,7 +13,7 @@ An end-to-end data engineering, telemetry analysis, and machine learning reposit
 ```text
 motorsport-telemetry-python-analysis/
 │
-├── 01_eda_and_validation/       # Exploratory Data Analysis, sensor mapping & data quality checks
+├── 01_eda_and_data_validation/  # Exploratory Data Analysis, sensor mapping & data quality checks
 │   └── README.md
 ├── 02_data_cleaning/            # Automated preprocessing pipelines & noise filtering
 │   └── README.md
